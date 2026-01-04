@@ -1,5 +1,6 @@
-Array Problems
-String Problems
+
+- Array Problems
+- String Problems
 Linked List Problems
 Stack and Queue Problems
 Binary Tree and Binary Search Tree Problems
