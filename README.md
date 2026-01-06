@@ -1,6 +1,9 @@
 # DSA Problems in JAVA
 
 ## Array Problems
+- Find the Largest Sum Contiguous Subarray (Kadane’s Algorithm)
+- Rotate an Array by K Steps
+
 - 
 ## String Problems
 Linked List Problems
