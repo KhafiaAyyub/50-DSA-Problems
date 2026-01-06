@@ -3,8 +3,8 @@
 ## Array Problems
 - Find the Largest Sum Contiguous Subarray (Kadane’s Algorithm)
 - Rotate an Array by K Steps
-
-- 
+- Merge Intervals
+- Find the Duplicate Number
 ## String Problems
 ## Linked List Problems
 ## Stack and Queue Problems
