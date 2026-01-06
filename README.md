@@ -1,8 +1,8 @@
 # DSA Problems in JAVA
 
-- Array Problems
+## Array Problems
 - 
-- String Problems
+## String Problems
 Linked List Problems
 Stack and Queue Problems
 Binary Tree and Binary Search Tree Problems
