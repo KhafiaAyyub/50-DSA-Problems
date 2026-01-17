@@ -34,6 +34,6 @@ public class TwoSum1 {
 		}
 	}
 
-//TC - O(n * n) On2  - bcoz looping
+//TC - O(n * n) On2  - bcoz  2 loopings
 //SC - O(1)
 	
