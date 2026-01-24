@@ -16,9 +16,6 @@ public class CheckifanumberisPositiveNegativeorZero {
 		} else {
 			System.out.println("Number is zero");
 		}
-
-
-
 	}
 
 
