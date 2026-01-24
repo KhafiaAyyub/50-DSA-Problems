@@ -11,7 +11,7 @@ public class Taketwonumbersandprinttheirsum {
 		int n2 = sc.nextInt();
 		
 		int sum = n1+n2;
-		 System.out.println("sum is :- "+ sum);
+		 System.out.println("sum is : "+ sum);
 		
 		
 	}

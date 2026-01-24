@@ -1,0 +1,21 @@
+package com.java.phase1;
+
+import java.util.Scanner;
+
+public class CheckifanumberisEvenorOdd {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		
+		int num = sc.nextInt();
+		
+		if(num%2 == 0) {
+			System.out.println("Num is even");
+		} else {
+			System.out.println("Num is odd");
+		}
+		
+	}
+	
+	
+}
