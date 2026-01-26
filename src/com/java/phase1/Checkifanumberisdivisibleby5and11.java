@@ -14,6 +14,8 @@ public class Checkifanumberisdivisibleby5and11 {
 		} else {
 			System.out.println("not divisible");
 		}
+		sc.close();
+
 		
 	}
 	
