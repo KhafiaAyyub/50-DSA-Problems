@@ -24,3 +24,5 @@ public class ReverseaNumber {
 		
 	}
 }
+//TC - O(n)
+//SC - O(1)
