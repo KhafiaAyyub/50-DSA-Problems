@@ -25,9 +25,18 @@ public class ArmstrongNumber {
 		 
 		 //calculating sum
 		 int sum = 0;
-		 temp = n;
+		 temp = n;   //temp -  153
 		  while(temp > 0) {
-			  
+			  int digit = temp%10; //3 
+			  sum = (int) (sum + Math.pow(digit, count)); // sum = math.pow(3,3)
+			  temp  = temp/10; //15
+		  }
+		  
+		  //comparing 
+		  if(sum == original) {
+			  System.out.println("It is Armstrong");
+		  } else {
+			  System.out.println("not Armstrong");
 		  }
 		 
 		 
