@@ -13,11 +13,24 @@ public class ArmstrongNumber {
 		 int n = sc.nextInt();
 		 int original = n;
 		 
+		 //counting number of digits
 		 int count = 0;
 		 int temp = n;
 		 
-		 while(temp> 0) {
-			 
+		 while(temp> 0) {  //153>0  , 15>0
+			 count++;     //count = 1...3
+			 temp = temp/10;  //temp = 153/10 = 15
 		 }
+		 //count = 3
+		 
+		 //calculating sum
+		 int sum = 0;
+		 temp = n;
+		  while(temp > 0) {
+			  
+		  }
+		 
+		 
+		 
 	}
 }
